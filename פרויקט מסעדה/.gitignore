@@ -1,0 +1,46 @@
+# Build Folders
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+
+# NuGet
+*.nupkg
+packages/
+*.snupkg
+
+# ASP.NET / IIS
+wwwroot/
+*.log
+
+# Environment
+.env
+.env.*.local
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# Dotnet watch
+*.dotnetwatch/
+
+# Debug / Release folders
+Debug/
+Release/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
