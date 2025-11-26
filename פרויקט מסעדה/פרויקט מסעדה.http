@@ -1,6 +1,0 @@
-@פרויקט_מסעדה_HostAddress = http://localhost:5228
-
-GET {{פרויקט_מסעדה_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
